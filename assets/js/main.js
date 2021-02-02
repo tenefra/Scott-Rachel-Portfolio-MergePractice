@@ -1,5 +1,5 @@
 const font = element => {
-  element.classList.add("font-boost")
+	element.classList.add("font-boost")
 }
 
 ;(function () {
