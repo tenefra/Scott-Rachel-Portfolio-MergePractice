@@ -1,3 +1,13 @@
+
+const font = element => {
+	element.classList.add("font-boost")
+}
+
+
+
+
+
+
 (function () {
 	document.body.classList.add("js-enabled");
 }());
